@@ -10,4 +10,4 @@ function HomeTemplate(){
     )
 }
 
-export default Home;
+export default HomeTemplate;
